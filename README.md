@@ -9,3 +9,4 @@ tests, y otro para la documentación.
 # Integrantes del equipo
 
   - Iñigo Pacheco
+  - José Ruiz
