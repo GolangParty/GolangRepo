@@ -10,3 +10,4 @@ tests, y otro para la documentación.
 
   - Iñigo Pacheco
   - José Ruiz
+  - Álex A. Martín
